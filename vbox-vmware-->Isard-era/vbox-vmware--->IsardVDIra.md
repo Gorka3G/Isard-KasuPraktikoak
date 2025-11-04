@@ -132,4 +132,4 @@ style="width:100%;"/>
 alt="e100 sare modeloa aukeratu" 
 style="width:80%;"/>
 
-Bukatzeko, aholku orokor gisa, **hasieran, aukeratu dugun makinaren ezaugarriak ondo begiratu, gero IsardVDI plataforman mahaigaina doitzen joateko.**
+Bukatzeko, aholku orokor gisa, **hasieran aukeratu dugun makinaren ezaugarriak ondo begiratu, gero IsardVDI plataforman mahaigaina doitzen joateko**.
