@@ -123,9 +123,7 @@ style="width:65%;"/>
 
 Azken pausoa, mahaigain hau txantiloi bihurtzea litzake, dagokion izena eman (Metasploitable2), baimenak... eta ondoren jendeak erabil dezala.
 
-<img src="media/11_txantiloiBihurtu.png" 
-alt="Txantiloi gisa, jendeak erabil dezan" 
-style="width:100%;"/>
+![Txantilloi gisa, jendeak erabili dezan](media/11_txantiloiBihurtu.png "Txantiloi bihurtu")
 
 > Inor adibide konkretu hau jarraitzen ari bada Metasploitable2 erabiliz, guri azken arazo bat sortu zitzaigun: erabiltzera gindoazenean (mahaigaina jada ondo piztuta), ez zuen sarerik ikusten. Oraingoan konponbidea (eta arazoa) Isard-en sare modeloetan dago: Jarrita genuen openVSwitch->*virtio* sarea ez zuen ikusten, *e100* jarri genuenean, dena ondo. 
 <img src="media/13_sareMotakIsarden.png" 
